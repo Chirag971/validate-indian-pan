@@ -1,0 +1,26 @@
+{
+  "name": "validate-indian-pan",
+  "version": "1.0.0",
+  "description": "valiadting indian pan number",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chirag971/validate-indian-pan.git"
+  },
+  "keywords": [
+    "[\"PAN\"",
+    "\"India\"",
+    "\"validate\"",
+    "\"KYC\"",
+    "\"card\"]"
+  ],
+  "author": "Chirag Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chirag971/validate-indian-pan/issues"
+  },
+  "homepage": "https://github.com/Chirag971/validate-indian-pan#readme"
+}
